@@ -1,7 +1,7 @@
 ```yaml
 title: ARTful Image Analysis
-place: 1485-238 mandag den 25. marts kl. 10-16 til Image Analysis
-time: March 25,  10 AM to 4 PM.
+place: 1485-238, Aarhus University, Aarhus, Denmark.
+time: March 25 & April 8, 2019, from  10 AM to 4 PM.
 instructors: Kristoffer L. Nielbo & Max R. Eckardt
 contact: kln@cas.au.dk
 ```
