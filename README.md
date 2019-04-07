@@ -5,6 +5,12 @@ time: March 25 & April 8, 2019, from  10 AM to 4 PM.
 instructors: Kristoffer L. Nielbo & Max R. Eckardt
 contact: kln@cas.au.dk
 ```
+## Description ##
+
+This workshop is under development. It's target audience are researchers from the humanities and social sciences
+that have an interest in automated analysis of visual culture. We want to thank Gogul Ilango and Pulkit Sharma for their invaluable resources for
+machine learning, image analysis and computer vision.  
+
 
 ## Schedule ##
 
