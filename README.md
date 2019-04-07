@@ -31,9 +31,8 @@ machine learning, image analysis and computer vision.
 | Time        | Content           | Instructor  |
 | ------------- |:-------------:| -----:|
 | 10:00-11:00 | `Image manipulation` | KLN & MRE |
-| 11:00-11:30 | `Image Segmentation` | KLN |
-| 11:30-12:30 | `Project design #1` | KLN |
+| 11:00-12:30 | `Image Segmentation` | KLN |
 | 12:30-13:30 | Lunch | * |
 | 13:30-14:00 | `Clustering algorithms` | KLN |
 | 14:00-15:00 | `Image grouping` | KLN |
-| 15:00-16:00 | `Project design #2` | KLN |
+| 15:00-16:00 | `Project design` | KLN |
